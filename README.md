@@ -2,7 +2,7 @@
 
 ### Methodology 
 
-For the review of [federal Occupational Safety and Health Administration](https://www.osha.gov/) OSHA records reported in [this]() Inside Climate News article, we scraped records of farmworker fatalities in California from 2018 to 2022 from OSHA's [accident search](https://www.osha.gov/ords/imis/accidentsearch.html) site.
+For the review of [federal Occupational Safety and Health Administration](https://www.osha.gov/) OSHA records reported in [this](https://insideclimatenews.org/news/31122023/california-farmworkers-dying-in-the-heat/) Inside Climate News article, we scraped records of farmworker fatalities in California from 2018 to 2022 from OSHA's [accident search](https://www.osha.gov/ords/imis/accidentsearch.html) site.
 
 We also scraped records of employer citations for violations of [California's standard](https://www.dir.ca.gov/title8/3395.html) for heat illness prevention in outdoor places of employment from OSHA's [industry search](https://www.osha.gov/ords/imis/industry.html) site.
 
